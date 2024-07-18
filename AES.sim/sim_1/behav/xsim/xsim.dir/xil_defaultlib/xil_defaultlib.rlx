@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/Core_Project/AES/AES.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/Core_Project/AES/AES.srcs/sim_1/new/AES_Encrypt_tb.v,1721294886,verilog,,,,AES_Encrypt_tb,,,,,,,,
+D:/Core_Project/AES/AES.srcs/sources_1/new/AES_Encrypt.v,1721295160,verilog,,D:/Core_Project/AES/AES.srcs/sources_1/new/AddRoundKey.v,,AES_Encrypt,,,,,,,,
+D:/Core_Project/AES/AES.srcs/sources_1/new/AddRoundKey.v,1721294578,verilog,,D:/Core_Project/AES/AES.srcs/sources_1/new/MixColumns.v,,AddRoundKey,,,,,,,,
+D:/Core_Project/AES/AES.srcs/sources_1/new/MixColumns.v,1721294554,verilog,,D:/Core_Project/AES/AES.srcs/sources_1/new/SBox.v,,MixColumns,,,,,,,,
+D:/Core_Project/AES/AES.srcs/sources_1/new/SBox.v,1721294314,verilog,,D:/Core_Project/AES/AES.srcs/sources_1/new/ShiftRows.v,,SBox,,,,,,,,
+D:/Core_Project/AES/AES.srcs/sources_1/new/ShiftRows.v,1721294525,verilog,,D:/Core_Project/AES/AES.srcs/sources_1/new/SubBytes.v,,ShiftRows,,,,,,,,
+D:/Core_Project/AES/AES.srcs/sources_1/new/SubBytes.v,1721294503,verilog,,D:/Core_Project/AES/AES.srcs/sim_1/new/AES_Encrypt_tb.v,,SubBytes,,,,,,,,

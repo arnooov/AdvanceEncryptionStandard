@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../AES.srcs/sources_1/new/AES_Encrypt.v" \
+"../../../../AES.srcs/sources_1/new/AddRoundKey.v" \
+"../../../../AES.srcs/sources_1/new/KeyExpansion.v" \
+"../../../../AES.srcs/sources_1/new/MixColumns.v" \
+"../../../../AES.srcs/sources_1/new/ShiftRows.v" \
+"../../../../AES.srcs/sources_1/new/SubBytes.v" \
+"../../../../AES.srcs/sim_1/new/AES_Encrypt_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
